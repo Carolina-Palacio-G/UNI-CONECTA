@@ -51,7 +51,10 @@ Por qué: Mejora la precisión en la verificación de asistencia y permite envia
 
 
 ## Tecnologías a Utilizar
-
+- Android Studio: Es el entorno de desarrollo integrado (IDE) oficial para el desarrollo de apps para Android creado y distribuido por Google. Un IDE contiene herramientas que permiten a los desarrolladores de software diseñar, compilar, ejecutar y probar software. En este caso, apps para la plataforma de Android.
+- Kotlin: Es uno de los mejores lenguajes de programación para desarrollar en Android. Con una sintaxis concisa y clara, un excelente rendimiento y una curva de aprendizaje relativamente sencilla.
+- XML para Layouts: Los archivos XML permiten diseñar la interfaz de usuario de manera declarativa, separando claramente la presentación de la lógica de la aplicación.
+- SQLite: Es una base de datos ligera que puedes utilizar para almacenar datos localmente en el dispositivo. SQLite es una opción popular para aplicaciones que requieren almacenamiento persistente sin necesidad de conectarse a un servidor externo.
 
 
 ## Equipo de Desarrollo
@@ -62,5 +65,49 @@ Por qué: Mejora la precisión en la verificación de asistencia y permite envia
   
 
 ## Cronograma Tentativo
+- Semana 5-6: Diseño y Desarrollo Inicial
+Diseño de la Interfaz de Usuario Básica
+Creación de wireframes y mockups para las pantallas principales: mapa interactivo, red de contactos, foros, escaneo de documentos, y alertas.
+Implementación de la Actividad Principal y Navegación entre Pantallas
+Configuración de la estructura básica de la aplicación en Android Studio.
+Implementación de la navegación entre las pantallas principales.
 
+- Semana 7-8: Desarrollo del Mapa Interactivo y Red de Contactos
+Desarrollo del Mapa Interactivo
+Integración del GPS y la funcionalidad de mapa para localizar ubicaciones en el campus.
+Implementación de búsqueda y direcciones dentro del mapa.
+Desarrollo de la Red de Contactos
+Creación de perfiles de usuario y funcionalidades básicas de conexión.
+Implementación del calendario de eventos y notificaciones.
+
+- Semana 9-10: Foros, Grupos de Estudio y Escaneo de Documentos
+Desarrollo de Foros y Grupos de Estudio
+Implementación de espacios para discusión y colaboración en proyectos académicos.
+Configuración de herramientas para compartir ideas y recursos.
+Desarrollo de la Funcionalidad de Escaneo de Documentos
+Integración de la cámara para escanear y digitalizar documentos.
+Implementación de almacenamiento y organización de documentos digitalizados.
+
+- Semana 11-12: Alertas y Recordatorios Personalizados y Mejora de la Interfaz
+Desarrollo de Alertas y Recordatorios Personalizados
+Implementación del sistema de notificaciones para fechas de entrega, horarios de clases, y eventos importantes.
+Configuración de alertas basadas en la ubicación del usuario mediante sensores.
+Mejora de la Interfaz de Usuario
+Refinamiento del diseño de la interfaz basado en la retroalimentación y pruebas preliminares.
+
+- Semana 13-14: Integración de Hardware y Refinamiento
+Integración de Componentes de Hardware
+Implementación y pruebas de funciones de GPS, cámara y sensores.
+Configuración de geofencing y notificaciones contextuales basadas en ubicación.
+Refinamiento de Funcionalidades Existentes
+Ajustes y optimización de las funcionalidades desarrolladas.
+Corrección de errores y mejora del rendimiento.
+
+- Semana 15-16: Pruebas, Depuración y Preparación Final
+Pruebas y Depuración
+Pruebas exhaustivas de todas las funcionalidades: mapa interactivo, red de contactos, foros, escaneo de documentos, y alertas.
+Identificación y corrección de errores, y ajustes finales en la aplicación.
+Preparación de la Presentación Final del Proyecto
+Creación de la documentación técnica y de usuario.
+Preparación de una presentación para mostrar el proyecto y sus funcionalidades.
 
